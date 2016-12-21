@@ -1,0 +1,9 @@
+{
+  "data": [
+    { "id": 1, "name": "Sync", "singer": "kinae", "url": "mp3/Kinae.mp3" },
+    { "id": 2, "name": "k歌之王","singer": "陈奕迅", "url": "mp3/kk.mp3" },
+    { "id": 3, "name": "因为爱情","singer": "陈奕迅", "url": "mp3/ywaq.mp3" },
+    { "id": 4, "name": "新女人花","singer": "陈瑞", "url": "mp3/xnrh.mp3" },
+    { "id": 5, "name": "你的背包","singer": "陈奕迅", "url": "mp3/ndbb.mp3" }
+  ]
+}

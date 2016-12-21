@@ -1,0 +1,15 @@
+<div *ngIf="song">
+  <h2>{{song.name}} </h2>
+  <div>
+    <label>id: </label>{{song.id}}
+  </div>
+  <div>
+    <label>singer: </label>{{song.singer}}
+  </div>
+  <audio controls>
+    <source [src]="song.url" type="">
+  </audio>
+  <button (click)="goBack()">Back</button>
+</div>
+
+
